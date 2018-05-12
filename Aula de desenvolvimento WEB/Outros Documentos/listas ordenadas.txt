@@ -1,0 +1,23 @@
+O rdered
+L ist
+
+Lista com numeros e letras ordenando as palavras.
+===========
+U nordered
+l ist
+
+Lista desordenada com pontinhos ou traços
+==============
+L isr
+I tem
+=============
+D iscription
+l ist
+
+Lista descritiva
+
+D escription
+T erms
+
+D escription
+D efinition

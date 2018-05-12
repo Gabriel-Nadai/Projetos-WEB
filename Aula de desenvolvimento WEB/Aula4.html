@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Aula mde desenvolvimento WEB</title>
+</head>
+<body>
+	<p>Ultilizando ColsPan</p> <!-- Ultilizado na linha-->
+	<table border="1">
+		<tr>
+			<th colspan="3" bgcolor="#777">Colunas</th>
+		</tr>
+		<tr>
+			<td>Coluna1</td>
+			<td>Coluna2</td>
+			<td>Coluna3</td>
+		</tr>
+		<tr>
+			<td colspan="2">Coluna4</td>
+			<td>Coluna5</td>
+		</tr>
+		<tr>
+			<td>Coluna6</td>
+			<td>Coluna7</td>
+			<td>Coluna8</td>
+		</tr>
+	</table>
+	<br>
+	<hr>
+	<p>Utilizando Rowspan</p> <!-- utilizado na Coluna-->
+	<table border="1">
+		<tr>
+			<th colspan="4" bgcolor="#777">Compras</th>
+		</tr>
+		<tr>
+			<th>Mês</th>
+			<th>Economia</th>
+			<th>Total Economizado</th>
+			<th bgcolor="#800000">Sobra</th>
+		</tr>
+		<tr>
+			<td>Janeiro</td>
+			<td>R$ 100,00</td>
+			<td rowspan="3">R$ 200,00</td>
+			<td rowspan="3" bgcolor="#800000">R$ 5,00</td>
+		</tr>
+		<tr>
+			<td>Fevereiro</td>
+			<td>R$ 80,00</td>
+		</tr>
+		<tr>
+			<td>Março</td>
+			<td>R$ 25,00</td>
+		</tr>
+	</table>
+	<br>
+	<hr>
+	<h2>Lista ordenada</h1><!-- Quando se segue uma lista de itens, um por um-->
+	<h3>Orden a ser seguida</h3>
+	<ol type="1"><!-- Type para selecionar o tipo de lista ordenada 1 por exemplo em sequência de outros números-->
+		<li>Quebrar o ovo</li>
+		<li>Abrescentar sal</li>
+		<li>Fritar o ovo</li>
+	</ol>
+	<h3>Ordem a ser seguida</h3>
+	<ol type="a"><!-- Outro exemplo-->
+		<li>Tirar o estepe</li>
+		<li>Erguer o carro</li>
+		<li>Trocar o pneu</li>
+	</ol>
+	<h3>Autores de um livor</h3>
+	<ol type="I"><!-- Outro exemplo -->
+		<li>José de alencar</li>
+		<li>Eça de queiroz</li>
+		<li>Machado de asis</li>
+	</ol>
+	<hr>
+	<br>
+	<h2>Lista Desordenada</h2><!-- Tipo de lista onde os valores nao seguem uma ordem adqueada, como uma lista de super mercado-->
+	<h3>Comprar no Mercado</h3>
+	<ul><!-- Exemplo Simples-->
+		<li>Macarão</li>
+		<li>Sardinha</li>
+		<li>Banana</li>
+	</ul>
+	<hr>
+	<br>
+	<h2>Lista descritiva</h2>
+	<h3>Tipos de bebida</h3>
+	<dl>
+		<ol type="1">
+			<li><dt>Café</dt></li>
+		<dd>Bebida quente</dd>
+			<li><dt>Leite</dt></li>
+		<dd>Bebida fria para dias quentes</dd>
+		<dd>Bebida quente para dias frios</dd>
+		</ol>
+	</dl>
+</body>
+</html>

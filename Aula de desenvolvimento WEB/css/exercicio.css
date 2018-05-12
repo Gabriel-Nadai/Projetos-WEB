@@ -1,0 +1,10 @@
+.tabelanormal td, th{
+  padding: 50px;
+  border: 1px solid white
+}
+.td1{
+  background-color: red;
+}
+.tabelanormal, th{
+  background-color: black;
+}

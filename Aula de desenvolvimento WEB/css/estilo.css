@@ -1,0 +1,24 @@
+h1{
+  color: red;
+  font-family: Verdade;
+  font-size: 25px;
+  font-style: italic;
+}
+p{
+  text-align: center;
+  color: green;
+  font-family: Times New Romam;
+  font-size: 28px;
+}
+.exemplo{
+  text-align: left;
+  font-family: Calibri;
+  font-size: 24px;
+  color: navy;
+}
+#id_p{
+  text-align: center;
+  font-family: verdana;
+  font-size: 36px;
+  color: cyan;
+}

@@ -1,0 +1,9 @@
+Gabriel de Nadai
+RA:20171499
+Nasc:19/05/1998
+
+Autodidata, programa há 3 anos.Possui experiência com as linguagens C++ nas 
+áreas de, processamento de imagens e otimização.
+Recentemente, tem focado seus estudos nas linguagens Java e C# voltadas 
+para o desenvolvimento de aplicativos 
+para plataformas mobile.

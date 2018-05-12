@@ -1,0 +1,23 @@
+.rgb{
+  background-color: rgb(50,90,150);
+  color: white;
+}
+.hexadecimal{
+  background-color: #ff00FF;
+  color: black
+}
+.tradicional{
+  background-color: black;
+  color: white;
+}
+.tabelanormal td, th{
+  padding: 8px;
+  border: 1px solid black;
+}
+.tabelanormal th{
+  background-color: blue;
+  color: white;
+}
+.tabelanormal td{
+  color: blue;
+}
